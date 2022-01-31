@@ -1,2 +1,2 @@
 # SpringProject
-Spring Boot Praject MVC
+Spring Boot Project MVC
